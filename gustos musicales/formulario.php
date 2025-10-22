@@ -48,6 +48,7 @@
                 } 
             ?>
         </select>
+        <input type="submit" value="INICIAR">
     </form>
 </body>
 </html>
